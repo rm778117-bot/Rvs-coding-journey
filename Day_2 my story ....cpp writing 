@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+
+int main ()
+{ 
+  cout<< " Always stay  strong  no matter how worse the situation is ....always remember opportunities just doesn't come to us ...we have to create it by our own "<<endl;
+cout<< " If things are not in your favour be patient and try to go with the flow 💐"<<endl;
+cout<<"Self empowerment is the biggest weapon 🚀 "<<endl;
+cout<<"Always remember, good things takes time" <<endl;
+return 0;
+}
