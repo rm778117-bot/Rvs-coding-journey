@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{ 
+ cout<<"This is my starting phase of my code" << endl;
+cout<<" I am experiencing extreme joy in doing this" << endl;
+cout <<" I will definitely give my best in coding" << endl;
+cout<<" From now coding is not only my work ..it's a passion for me "<<endl ;
+return 0;
+}
