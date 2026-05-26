@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+ int gk=25;
+int msc= 30;
+int evs=28;
+int english=30;
+cout<< gk + msc + evs + english;
+return 0;
+}
