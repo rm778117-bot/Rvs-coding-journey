@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int physics=90;
+    int chemistry=98;
+    int maths=97;
+    int english=96;
+    int music=100;
+    cout << physics + chemistry + maths + english + music;
+    return 0;
+}
