@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+
+
+int main()
+{
+ int rose=89;
+ int marry=98;
+ int cathrine=78;
+ int malas=95;
+ cout<<rose *marry*cathrine*malas;
+ return 0;
+}
