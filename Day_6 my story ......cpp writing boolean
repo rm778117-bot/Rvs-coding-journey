@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+ bool codingfun= true ;
+bool  fishtasty = false;
+cout<<  codingfun; // outputs 1(true);
+cout<<   fishtasty; // outputs 0 (false);
+return 0;
+}
+
