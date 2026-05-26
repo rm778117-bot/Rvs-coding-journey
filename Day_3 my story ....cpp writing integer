@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int hockeyscore=300;
+	cout<<hockeyscore;
+	return 0;
+}
+    
