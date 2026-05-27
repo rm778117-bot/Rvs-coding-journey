@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+
+int main ()
+{
+int hockey = 30;
+int Cricket =79;
+int badminton= 39;
+int golf= 45;
+
+cout<< hockey+Cricket + badminton+golf;
+ return 0;
+}
