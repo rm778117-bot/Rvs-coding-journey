@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+
+// global declaration 
+int g= 20;
+
+int main()
+{
+// local variable 
+int g= 40;
+
+cout<<g;
+
+return 0;
+}
