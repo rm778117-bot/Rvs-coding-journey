@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+
+int main (){
+	int _a = 90;
+	if ( _a<=0){
+		cout<<"positive";
+		} else {
+			cout<<"negative";
+			}
+	return 0;
+	}
+
+
